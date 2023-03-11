@@ -18,3 +18,5 @@ What am I going to do <em><b>tomorrow</b></em>:
 </ol
 
 I like to study stats220 and I like to write the sentence with [markdown](https://en.wikipedia.org/wiki/Markdown)
+
+![Tux, the Linux mascot](tux.png)
